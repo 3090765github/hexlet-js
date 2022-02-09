@@ -19,5 +19,9 @@
   "homepage": "https://github.com/3090765github/hexlet-js#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@hexlet/nodejs-package": "file:nodejs-package",
+    "prettier": "^2.5.1"
   }
 }
